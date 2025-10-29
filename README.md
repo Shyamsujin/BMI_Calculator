@@ -1,4 +1,4 @@
-# Ex06 BMI Calculator
+# Ex:06 BMI Calculator
 ## Date:29.10.25
 ### Name : SHYAM SUJIN U
 ### Reg no: 212223040201
